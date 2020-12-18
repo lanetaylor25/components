@@ -1,2 +1,3 @@
-# pyqtWidgets
-custom PyQt widgets for integrations in various projects
+# Components
+A repository to hold a variety of custom component code that can be used
+in various projects.
